@@ -1,4 +1,4 @@
-### This is the starting point of a Django app. It is a django Sample App source code
+### This is the starting point of a Django4 app. It is a django Sample App source code
 
 ## I have followed this video to develop this django project
     https://www.youtube.com/watch?v=ey8EXTjRuag
