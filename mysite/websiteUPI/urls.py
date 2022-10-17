@@ -5,5 +5,5 @@ urlpatterns = [
     path('', views.index, name = 'index'),
     path('about', views.about, name = 'about'),
     path('upi', views.upi, name = 'upi'),
-    # path('getFile', views.getFile, name = 'getFile'),
+    path('getFile', views.getFile, name = 'getFile'),
 ]
