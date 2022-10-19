@@ -118,5 +118,5 @@ MEDIA_URL = '/media/'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp-mail.outlook.com'
 EMAIL_HOST_USER = 'sachitgupta25@hotmail.com'
-EMAIL_HOST_PASSWORD = "SachitGupta108"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_PORT = 587
