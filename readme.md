@@ -10,6 +10,7 @@
     python -m venv virt
     source virt/Scripts/activate
     pip install django
+    pip install pywin32
     pip freeze
     django-admin startproject mysite
     cd mysite/
