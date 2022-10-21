@@ -7,7 +7,6 @@ from django.shortcuts import render
 from django.http import HttpResponse  
 from websiteUPI.functions import handle_uploaded_file
 from .models import upiModel
-import pythoncom
 import win32com.client
 from django.core.mail import EmailMultiAlternatives
 
